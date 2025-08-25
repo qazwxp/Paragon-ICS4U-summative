@@ -4,9 +4,9 @@ An educational top-down story game. The player must complete quests to earn rewa
 Monsters are beaten by answering math questions of one of three difficulties chosen by the user, and drop items that can be exchanged for items in an item shop. As the player completes quests, more areas of the map become available.
 
 
-Made in collaboration with @[tryhardmii]([url](https://github.com/tryhardmii))
+Made in collaboration with @[tryhardmii](https://github.com/tryhardmii)
 
-Demo gameplay can be found [Here]([url](https://www.youtube.com/watch?v=6g_PgOcVsw4))
+Demo gameplay can be found [Here](https://www.youtube.com/watch?v=6g_PgOcVsw4)
 # How it was made:
 **Tech used:** Python, Pygame, Tiled level editor
 
