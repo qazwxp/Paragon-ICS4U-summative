@@ -6,7 +6,7 @@ Monsters are beaten by answering math questions of one of three difficulties cho
 
 Made in collaboration with @[tryhardmii]([url](https://github.com/tryhardmii))
 
-Demo gameplay can be found [Here](url)
+Demo gameplay can be found [Here]([url](https://www.youtube.com/watch?v=6g_PgOcVsw4))
 # How it was made:
 **Tech used:** Python, Pygame, Tiled level editor
 
@@ -24,4 +24,3 @@ Some specific functionalities that were particularly pride-worthy:
    
  - File handling in Python
  - Object-oriented programming
- - 
