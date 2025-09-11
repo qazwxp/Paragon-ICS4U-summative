@@ -1,3 +1,5 @@
+#Declaring quests for a story game, tracking player progress in a .json file, tracking rewards given to player upon completing each quest
+
 from items import weaponlist #to give player starting weapon
 def questupdate(player1, questmaster1,file,requesttype): #check if quests are completed, requesttype changes what you return (questmaster/dialogue/player)
     class quest:
@@ -81,4 +83,5 @@ def questupdate(player1, questmaster1,file,requesttype): #check if quests are co
             #standard 100 gold reward for completing a quest
             if questlist[questmaster.name][player.currentquest].currentvalue >= questlist[questmaster.name][player.currentquest].totalvalue or requesttype=="dialoguestart":
                 return questcompleted()
+
         return 0
